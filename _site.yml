@@ -1,13 +1,8 @@
-name: "ctv-website"
+name: "my-website"
 navbar:
-  title: "Chris Volinsky Personal Website"
-left:
-  - text: "Home"
-href: index.html
-- text: "Publications"
-href: pubs.html
-
-right: 
-  - icon: fa-envelope fa-lg
-href: mailto:<ctvisme@gmail.com>
-
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
