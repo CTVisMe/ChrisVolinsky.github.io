@@ -1,8 +1,6 @@
 ---
 title: "index.Rmd"
-output: 
-  html_document:
-    keep_md: true
+output: html_document
 ---
 
 Most basic Rmd file ever
