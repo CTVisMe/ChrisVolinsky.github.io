@@ -1,0 +1,8 @@
+name: "ctv-website"
+navbar:
+  title: "Chris Volinsky Personal Website"
+left:
+  - text: "Home"
+href: index.html
+- text: "Publications"
+href: pubs.html
